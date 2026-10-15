@@ -1,6 +1,6 @@
 ---
 name: claude-council
-description: Simule un conseil d'IA qui débat d'une décision business et rend un verdict clair avec une action concrète. Trigger quand l'utilisateur écrit "/ask-the-council" ou "Ask the Council" suivi d'une question (business, tech, pricing, recrutement, direction).
+description: Simule un conseil d'IA qui débat d'une décision business et rend un verdict clair avec une action concrète. Trigger quand l'utilisateur écrit "/claude-council" ou "Ask the Council" suivi d'une question (business, tech, pricing, recrutement, direction).
 ---
 
 # Claude Council
